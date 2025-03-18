@@ -3,9 +3,9 @@
 <h3 align="center">I'm like a code under development</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
-- 🌱 I’m currently learning **data science and machine learning**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **java script, machine learing**
+- 💬 Ask me about **JavaScript, React, MongoDB**
 
 - 📫 How to reach me **satisachin619@gmail.com**
 
