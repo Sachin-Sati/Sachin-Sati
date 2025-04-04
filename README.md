@@ -9,9 +9,15 @@
 
 - 📫 How to reach me **satisachin619@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div>
+  
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sachin-sati/)
+[![](https://skillicons.dev/icons?i=github)](https://github.com/Sachin-Sati)
+[![](https://skillicons.dev/icons?i=twitter)](https:/twitter.com/SachinSatiX/)
+
+</div>
+
+<br>
 
 ---
 
