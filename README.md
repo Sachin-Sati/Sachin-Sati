@@ -13,15 +13,15 @@
 <p align="left">
 </p>
 
-<h3 align="left">My Skills:</h3>
 ---
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,pytorch,tensorflow,react,django,nextjs,postgres,r,sklearn,mysql,flask,gcp,aws,opencv,selenium,docker,git,bootstrap,arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,c,eclipse,html,css,bootstrap,react,express,nodejs,mongodb,mysql,gcp,aws,docker,git,npm,postman,vite,vscode)](https://skillicons.dev)
 
 <br>
 
 ---
+
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
