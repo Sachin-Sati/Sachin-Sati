@@ -34,9 +34,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sachin-Sati&label=Profile%20views&color=0e75b6&style=for-the-badge)
 <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin-Sati&show_icons=true&theme=tokyonight)
-<br>
-### 🧠 Top Languages
-![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sachin-Sati&layout=donut&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Sati&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
