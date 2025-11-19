@@ -5,9 +5,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **PostgreSQL**
 
-- 💬 Ask me about **JavaScript, React, MongoDB**
+- 💬 Ask me about **Java, Python, MongoDB**
 
 - 📫 How to reach me **satisachin619@gmail.com**
 
