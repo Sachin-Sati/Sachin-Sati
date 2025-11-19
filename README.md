@@ -18,13 +18,14 @@
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sachinsati/)
 [![](https://skillicons.dev/icons?i=github)](https://github.com/Sachin-Sati)
 [![](https://skillicons.dev/icons?i=twitter)](https://x.com/SachinSatiX)
+[![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sachin.sati_/)
 
 <br>
 
 ---
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,java,c,eclipse,html,css,bootstrap,react,express,nodejs,mongodb,mysql,gcp,aws,docker,firebase,git,npm,postman,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,mysql,mongodb,html,css,bootstrap,react,express,nodejs,gcp,aws,docker,firebase,git,npm,postman,vite,vscode&perline=8)](https://skillicons.dev)
 
 <br>
 
@@ -34,6 +35,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sachin-Sati&label=Profile%20views&color=0e75b6&style=for-the-badge)
 <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin-Sati&show_icons=true&theme=tokyonight)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Sati&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
