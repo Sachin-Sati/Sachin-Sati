@@ -25,7 +25,7 @@
 ---
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,mysql,mongodb,excel,html,css,bootstrap,react,express,nodejs,gcp,aws,docker,firebase,git,npm,postman,vite,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,mysql,mongodb,html,css,bootstrap,react,express,nodejs,gcp,aws,docker,firebase,git,npm,postman,vite,vscode&perline=8)](https://skillicons.dev)
 
 <br>
 
