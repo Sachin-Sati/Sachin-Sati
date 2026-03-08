@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **LangChain, LangGraph**
 
 - 💬 Ask me about **Java, Python, MongoDB**
 
