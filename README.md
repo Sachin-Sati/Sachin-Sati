@@ -5,9 +5,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **LangChain, LangGraph**
+- 🌱 I’m currently learning **Machine Learning, LangChain**
 
-- 💬 Ask me about **Java, Python, MongoDB**
+- 💬 Ask me about **Java, Python, SQL**
 
 - 📫 How to reach me **satisachin619@gmail.com**
 
